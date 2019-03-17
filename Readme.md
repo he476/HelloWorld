@@ -1,5 +1,5 @@
 #HelloWorld
 This is my first Android project.
 
-![Alt text](./lab1_1.JPG)
-![Alt text](./lab1_2.png)
+![image](https://github.com/he476/HelloWorld/blob/master/images/lab1_1.JPG)
+![image](https://github.com/he476/HelloWorld/blob/master/images/lab1_2.png)
